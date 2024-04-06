@@ -13,5 +13,5 @@ function login() {
     sessionStorage.setItem('loginSuccess', 'true');
     alert("Log-In successfull! Redirecting to Home page...");
 
-    window.location.href = '../home.html';
+    window.location.href = '../index.html';
 }
