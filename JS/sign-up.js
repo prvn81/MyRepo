@@ -14,6 +14,6 @@ function signUp() {
     sessionStorage.setItem('signUpSuccess', 'true');
     alert("Sign-Up successfull! Redirecting to Home page...");
 
-    window.location.href = '../home.html';
+    window.location.href = '../index.html';
 
 }
