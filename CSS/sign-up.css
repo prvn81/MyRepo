@@ -62,46 +62,15 @@ input{
     transition: 0.15s;
 }
 
-#sign-in-btn:hover{
+#sign-up-btn:hover{
     box-shadow: 1px 1px 10px black;
 }
 
-#sign-in-btn:active{
+#sign-up-btn:active{
     color: #39ff14;
     background-color: black;
     border: 1px solid #39ff14;
     box-shadow: none;
-}
-
-#sign-in-ops{
-    text-align: center;
-    border: 1px groove #323432;
-    border-radius: 10px;
-    padding: 10px;
-}
-
-#sign-in-ops button{
-    height: 40px;
-    width: 40px;
-    border-radius: 50%;
-    padding: 0px;
-    border: none;
-    margin-left: 20px;
-    transition: 0.15s;
-}
-
-#sign-in-ops button:hover{
-    box-shadow: 1px 1px 10px black;
-}
-
-#sign-in-ops button:active{
-    box-shadow: none;
-}
-
-#sign-in-ops button img{
-    width: 100%;
-    height: 100%;
-    border-radius: 50%;
 }
 
 #alr-acc{
