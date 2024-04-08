@@ -321,3 +321,42 @@ a button:active{
     align-items: center;
     justify-content: center;
 }
+
+#home-footer{
+    border: 1px solid #323432;
+    margin-top: 60px;
+    margin-bottom: 100px;
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+    border-radius: 60px;
+}
+
+#home-footer div{
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#home-short-cut a{
+    text-decoration: none;
+    border-bottom: 1px solid #323432;
+    border-top: 1px solid #323432;
+    color: black;
+    font-family: Copperplate,Copperplate Gothic Light,fantasy;
+}
+
+#footer-contents a{
+    text-decoration: none;
+    color: black;
+}
+
+#contact-details a {
+    text-decoration: none;
+    color: black;
+}
+
+#contact-details ul{
+    list-style: none;
+}
